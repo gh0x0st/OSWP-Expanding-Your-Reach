@@ -91,6 +91,10 @@ Additional Information:
 	• Frequency Range: 2.412-2.484 GHz 
 	• Allows Monitor Mode
 	• Allows Packet Injection
+
+**_Victim_**
+
+Throughout the course, I was using an Android device as the victim for the relevant scenarios. However, when I got to the section on WEP PSK I kept getting a broken SKA message during my airodump-ng capture. To get by this, I popped Kali Live on a spare laptop and used that as my victim machine going forward. If you're running into a scenario where you're just not capturing complete handshakes, swap to do a different victim.
 ___
 
 ### 4. Exam Prep Strategy
