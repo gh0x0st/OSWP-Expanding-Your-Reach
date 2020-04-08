@@ -12,8 +12,9 @@ This April of 2020, I successfully completed the Wireless Attacks (WIFU) course 
     * How will I stay organized?
 2. Course Material
 3. Lab Setup
-    * Operating System
-    * Hardware
+    * Wireless Router
+    * Adapter
+    * Victim
 4. Exam Prep Strategy
     * Practice Report Writing
     * Skeleton Report
